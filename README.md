@@ -4,7 +4,7 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## 🚀 DEMO
 
-* [Link para Demo](https://jed1rey.000webhostapp.com/index.html),
+* [Link para Demo](https://jed1rey.000webhostapp.com/index.html)
 
 * [Busca de Integrante](https://jed1rey.000webhostapp.com/buscaAlunos.html)
 
@@ -20,13 +20,15 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## ✒️ Telas
 
+![Screenshot](tela_buscas.png)
+
+![Screenshot](cadastro.png)
+
 ![Screenshot](login.png)
 
 ![Screenshot](index.png)
 
-![Screenshot](tela_buscas.png)
 
-![Screenshot](cadastro.png)
 
 
 
