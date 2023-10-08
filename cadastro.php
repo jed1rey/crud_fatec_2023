@@ -1,7 +1,7 @@
 <?php
 header('Access-Control-Allow-Origin: *');
 
-$connect = new PDO("mysql:host=localhost;dbname=id19500520_db", "id19500520_user", "Xitn^Gbvn3V9Kg<)");
+$connect = new PDO("mysql:host=localhost;dbname=id21179027_fatecfrancabancoteste", "id21179027_jed1rey", "Pa&&w0rd");
 $received_data = json_decode(file_get_contents("php://input"));
 $data = array();
 if ($received_data->action == 'fetchall') {
@@ -18,8 +18,8 @@ if ($received_data->action == 'fetchall') {
 }
 if ($received_data->action == 'insert') {
     $data = array(
-        ':first_name' => $received_data->firstName,
-        ':last_name' => $received_data->lastName
+        ':first_name' => $received_data->first_name,
+        ':last_name' => $received_data->last_name
     );
 
     $query = "
@@ -60,8 +60,8 @@ if ($received_data->action == 'fetchSingle') {
 }
 if ($received_data->action == 'update') {
     $data = array(
-        ':first_name' => $received_data->firstName,
-        ':last_name' => $received_data->lastName,
+        ':first_name' => $received_data->first_name,
+        ':last_name' => $received_data->last_name,
         ':id' => $received_data->hiddenId
     );
 

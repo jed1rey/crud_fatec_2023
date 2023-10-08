@@ -4,7 +4,10 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## 🚀 DEMO
 
-[Link para Demo](https://fatec-teste2.000webhostapp.com/fatec_franca/index.html)
+[Link para Demo](https://jed1rey.000webhostapp.com/index.html)
+[Busca de Integrante](https://jed1rey.000webhostapp.com/buscaAlunos.html)
+[Sistema de Cadastro](https://jed1rey.000webhostapp.com/cadastroAlunos.html)
+[Menu](https://jed1rey.000webhostapp.com/dashboard.html)
 
 ## 🛠️ Construído com
 
@@ -14,13 +17,13 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## ✒️ Telas
 
-![Screenshot](Screenshot_1.png)
+![Screenshot](login.png)
 
-![Screenshot](Screenshot_2.png)
+![Screenshot](index.png)
 
-![Screenshot](Screenshot_3.png)
+![Screenshot](tela_buscas.png)
 
-![Screenshot](Screenshot_4.png)
+![Screenshot](cadastr0.png)
 
-![Screenshot](Screenshot_5.png)
+
 
